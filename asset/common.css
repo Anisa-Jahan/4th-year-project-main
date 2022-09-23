@@ -1,0 +1,37 @@
+
+/* Travel page design */
+.travel .travel-h1{
+  /* font-size: 75px; */
+  color: rgb(175, 123, 175);
+  
+  
+}
+.travel .paragraph-h1{
+color: rgb(175, 123, 175);
+
+}
+.travel .description-box{
+
+max-width: 1000px; 
+margin: 0 auto; 
+}
+
+.travel .container {
+  position: relative;
+  max-width: 1000px; 
+  margin: 0 auto; 
+}
+
+.travel .container .content {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0); 
+  background: rgba(0, 0, 0, 0.5); 
+  color: #f1f1f1; 
+  width: 97.3%; 
+  padding: 20px; 
+}
+.travel .box-shadow:hover{
+  box-shadow: 0 1rem 2rem;
+  
+}
